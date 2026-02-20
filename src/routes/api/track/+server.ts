@@ -1,7 +1,6 @@
+import { env } from '$env/dynamic/private'
 import { json } from '@sveltejs/kit'
 import type { RequestHandler } from './$types'
-
-const webhookUrl = process.env.SLACK_WEBHOOK_URL || ''
 
 export const POST: RequestHandler = async ({ request, fetch }) => {
   try {
@@ -31,6 +30,13 @@ export const POST: RequestHandler = async ({ request, fetch }) => {
       message = `*${data.country || 'Unknown'} (${data.region || 'Unknown'}, ${data.browser?.split(' ')[0] || 'Unknown'})* clicked on *${data.element || 'Unknown'}*.`
     } else if (eventType === 'mercor_click') {
       message = `*${data.country || 'Unknown'} (${data.region || 'Unknown'}, ${data.browser?.split(' ')[0] || 'Unknown'})* clicked on *Mercor*.`
+    }
+
+    const webhookUrl = env.SLACK_WEBHOOK_URL
+
+    if (!webhookUrl) {
+      console.error('SLACK_WEBHOOK_URL not configured')
+      return json({ success: true })
     }
 
     try {

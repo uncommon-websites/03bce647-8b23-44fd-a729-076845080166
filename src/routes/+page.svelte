@@ -65,7 +65,7 @@
   const thanksMessage = "I'm looking forward to meeting you."
 
   const helpSuggestions = ['Invest in my company', 'Support with design', 'Start coinvesting']
-  const contactSuggestions = ['linkedin.com/in/yourname', 'Your LinkedIn profile URL', '@yourname']
+  const contactSuggestions = ['www.linkedin.com/in/yourname', 'www.linkedin.com/in/johndoe', 'www.linkedin.com/in/...']
 
   const companies: Company[] = [
     { name: 'Uncommon', url: 'https://www.unc.mn/', displayName: 'Uncommon' },

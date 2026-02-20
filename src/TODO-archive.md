@@ -77,3 +77,14 @@
 - [ ] Update to latest brand logo
 
 ──────────────────────────────────────────────────
+
+## Session: 2026-02-20T17:20:46.723Z
+
+<!-- DO NOT EDIT - Managed by todo_list tool -->
+<!-- Updated: 2026-02-20T17:20:29.822Z -->
+
+# Current Todo List State
+
+- [ ] Change font to Helvetica
+
+──────────────────────────────────────────────────

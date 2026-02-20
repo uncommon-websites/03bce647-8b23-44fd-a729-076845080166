@@ -59,7 +59,7 @@
 
   const firstSentence = 'Thilo is Uncommon Founder, Partner and Sequoia Arc Advisor.'
   const secondSentence =
-    'He invested, advised or designed Mercor, Delphi, Squint, Dash0, CrewAI, GradientLabs, Build, Fleet, Medra, nsave, Ironbridge, DiligenceSquared, Lemni, Morphic, Compile, Lapel, Orbit, Sensmore, Nolla, Luo, Hero, Popcorn, Partykit, GuidedEnergy, CommerceSystems, Claim, Structify, Snaptrude, Superlinked, Tilebox, Amperecloud, Equipme, Documenso and Era, founded Home, worked at Airbnb in 2011 and studied architecture – DM anytime on X or LinkedIn.'
+    'He invested, advised or designed Mercor, Delphi, Squint, Dash0, Ark, CrewAI, GradientLabs, Build, Fleet, Medra, nsave, Ironbridge, DiligenceSquared, Lemni, Morphic, Compile, Lapel, Orbit, Sensmore, Nolla, Luo, Hero, Popcorn, Partykit, GuidedEnergy, CommerceSystems, Claim, Structify, Snaptrude, Superlinked, Tilebox, Amperecloud, Equipme, Documenso and Era, founded Home, worked at Airbnb in 2011 and studied architecture – DM anytime on X or LinkedIn.'
   const thirdSentence = 'How can we work together?'
   const contactMessage = "What's your Linkedin?"
   const thanksMessage = "I'm looking forward to meeting you."
@@ -74,6 +74,7 @@
     { name: 'Delphi', url: 'https://www.delphi.gg', displayName: 'Delphi' },
     { name: 'Squint', url: 'https://www.squint.ai/', displayName: 'Squint' },
     { name: 'Dash0', url: 'http://dash0.com/', displayName: 'Dash0' },
+    { name: 'Ark', url: 'https://ark-robotics.com', displayName: 'Ark' },
     { name: 'CrewAI', url: 'https://www.crewai.com/', displayName: 'CrewAI' },
     { name: 'GradientLabs', url: 'https://gradient-labs.ai/', displayName: 'GradientLabs' },
     { name: 'Build', url: 'https://www.build.inc/', displayName: 'Build' },

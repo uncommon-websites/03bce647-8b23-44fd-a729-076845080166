@@ -25,3 +25,16 @@
 - [ ] Move crewai behind medra
 
 ──────────────────────────────────────────────────
+
+## Session: 2026-02-20T17:12:59.767Z
+
+<!-- DO NOT EDIT - Managed by todo_list tool -->
+<!-- Updated: 2026-02-20T17:12:31.681Z -->
+
+# Current Todo List State
+
+- [ ] Move dash0 behind mercor
+- [ ] Move popcorn behind diligenceSquared
+- [ ] Add leerzeichen after DiligenceSquared
+
+──────────────────────────────────────────────────

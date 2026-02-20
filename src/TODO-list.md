@@ -1,8 +1,8 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2026-02-20T17:13:25.396Z -->
+<!-- Updated: 2026-02-20T17:14:36.516Z -->
 
 # Current Todo List State
 
-- [x] Move dash0 behind mercor
-- [x] Move popcorn behind diligenceSquared
-- [ ] Add leerzeichen after DiligenceSquared
+- [x] Update to latest brand colors
+- [x] Update to latest brand font
+- [ ] Update to latest brand logo

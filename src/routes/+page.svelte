@@ -82,7 +82,7 @@
     { name: 'CrewAI', url: 'https://www.crewai.com/', displayName: 'CrewAI' },
     { name: 'nsave', url: 'https://www.nsave.com/', displayName: 'nsave' },
     { name: 'Ironbridge', url: 'https://ironbridgesp.com', displayName: 'Ironbridge' },
-    { name: 'DiligenceSquared', url: 'https://www.diligencesquared.com', displayName: 'DiligenceSquared' },
+    { name: 'DiligenceSquared', url: 'https://www.diligencesquared.com', displayName: 'Diligence Squared' },
     { name: 'Lemni', url: 'https://www.lemni.com/', displayName: 'Lemni' },
     { name: 'Morphic', url: 'https://www.morphic.com/', displayName: 'Morphic' },
     { name: 'Compile', url: 'https://compilelabs.ai/', displayName: 'Compile' },

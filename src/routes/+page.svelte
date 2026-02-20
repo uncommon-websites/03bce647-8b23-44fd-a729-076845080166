@@ -59,7 +59,7 @@
 
   const firstSentence = 'Thilo is Uncommon Founder, Partner and Sequoia Arc Advisor.'
   const secondSentence =
-    'He invested, advised or designed Mercor, Dash0, Delphi, Squint, Fleet, Build, Ark, GradientLabs, Medra, CrewAI, nsave, Ironbridge, DiligenceSquared, Popcorn, Lemni, Morphic, Compile, Lapel, Orbit, Sensmore, Nolla, Luo, Hero, Partykit, GuidedEnergy, CommerceSystems, Claim, Structify, Snaptrude, Superlinked, Tilebox, Amperecloud, Equipme, Documenso and Era, founded Home, worked at Airbnb in 2011 and studied architecture – DM anytime on X or LinkedIn.'
+    'He invested, advised or designed Mercor, Delphi, Squint, Dash0, Fleet, Build, Ark, GradientLabs, Medra, CrewAI, nsave, Ironbridge, DiligenceSquared, Lemni, Morphic, Compile, Lapel, Orbit, Sensmore, Nolla, Luo, Hero, Popcorn, Partykit, GuidedEnergy, CommerceSystems, Claim, Structify, Snaptrude, Superlinked, Tilebox, Amperecloud, Equipme, Documenso and Era, founded Home, worked at Airbnb in 2011 and studied architecture – DM anytime on X or LinkedIn.'
   const thirdSentence = 'How can we work together?'
   const contactMessage = "What's your Linkedin?"
   const thanksMessage = "I'm looking forward to meeting you."
@@ -82,7 +82,7 @@
     { name: 'CrewAI', url: 'https://www.crewai.com/', displayName: 'CrewAI' },
     { name: 'nsave', url: 'https://www.nsave.com/', displayName: 'nsave' },
     { name: 'Ironbridge', url: 'https://ironbridgesp.com', displayName: 'Ironbridge' },
-    { name: 'DiligenceSquared', url: 'https://www.diligencesquared.com', displayName: 'Diligence Squared' },
+    { name: 'DiligenceSquared', url: 'https://www.diligencesquared.com', displayName: 'DiligenceSquared' },
     { name: 'Lemni', url: 'https://www.lemni.com/', displayName: 'Lemni' },
     { name: 'Morphic', url: 'https://www.morphic.com/', displayName: 'Morphic' },
     { name: 'Compile', url: 'https://compilelabs.ai/', displayName: 'Compile' },
